@@ -23,4 +23,5 @@
 #### spring-boot-dubbo：springboot 整合dubbo 分布式架构示例
 
 ### 博客地址
-####
+#### spring-boot-helloWorld：spring-boot的helloWorld版本(http://www.cnblogs.com/nbfujx/p/7865787.html)  
+
