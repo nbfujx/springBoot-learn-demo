@@ -20,6 +20,7 @@
 #### spring-boot-shiro-redis：springboot 整合shiro和redis rbac示例
 #### spring-boot-springSecurity：springboot 整合springSecurity rbac示例
 #### spring-boot-springSecurity-springSession-redis：springboot 整合springSecurity和springSession和redis  rbac示例
+#### spring-boot-dubbo：springboot 整合dubbo 分布式架构示例
 
 ### 博客地址
 ####
