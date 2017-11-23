@@ -51,7 +51,7 @@ public class ExampleControllerTest {
     }
 
     @Test
-    public void helloWorld1() throws Exception {
+    public void echo() throws Exception {
         String responseString = mvc.perform(get("/str")    //请求的url,请求的方法是get
                 .contentType(MediaType.APPLICATION_JSON)  //数据的格式
                 .param("pcode","root")         //添加参数
