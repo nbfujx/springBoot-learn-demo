@@ -2,6 +2,8 @@ package com.goku.demo.controller;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.goku.demo.api.service.ExampleService;
+import com.goku.demo.api.service.ExampleServiceMock;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -12,7 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ExampleController {
 
-    @Reference(version = "1.0.0")
+    @Reference(version = "1.0.0",check=false,mock="com.goku.demo.api.service.ExampleServiceMock")
+    @Autowired
     public ExampleService exampleService;
 
     @RequestMapping("/")
