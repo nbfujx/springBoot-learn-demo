@@ -7,7 +7,7 @@
 #### spring-boot-mybatis-mulidatasource：springboot+mybatis多数据源最简解决方案
 #### spring-boot-mybatis-annotation-mulidatasource：springboot+mybatis（注解版）多数据源最简解决方案
 #### spring-boot-thymeleaf：simple spring boot thymeleaf demo
-#### spring-boot-jpa-thymeleaf-curd：spring boot + jpa + thymeleaf 增删改查示例
+#### spring-boot-swagger2：spring boot + swagger2 RESTful API文档
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
 #### spring-boot-scheduler：spring boot和定时任务案例
 #### spring-boot-web：web开发综合使用案例
