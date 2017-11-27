@@ -26,5 +26,7 @@
 ### 博客地址
 [spring-boot-helloWorld：spring-boot的helloWorld版本](http://www.cnblogs.com/nbfujx/p/7865787.html)  </br>
 
+[spring-boot-mybaits-xml：spring-boot整合Mybatis案例](http://www.cnblogs.com/nbfujx/p/7865968.html) </br>
+
 [spring-boot-dubbo：springboot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html)
 
