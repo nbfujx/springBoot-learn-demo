@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ExampleController {
 
-    @Reference(version = "1.0.0",check=false,mock="com.goku.demo.api.service.ExampleServiceMock")
+    @Reference(version = "1.0.0",check=false,mock="true")
     @Autowired
     public ExampleService exampleService;
 
