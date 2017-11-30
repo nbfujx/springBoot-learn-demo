@@ -22,6 +22,9 @@
 #### spring-boot-springSecurity-springSession-redis：springboot 整合springSecurity和springSession和redis  rbac示例
 #### spring-boot-dubbo：springboot 整合dubbo 分布式架构示例
 #### spring-boot-ws：springboot 整合cxf webservice 示例
+#### spring-data-elasticsearch-crud： Spring Data Elasticsearch 示例
+#### spring-data-elasticsearch-query：spring-data-elasticsearch 详解
+
 
 ### 博客地址
 [spring-boot-helloWorld：spring-boot的helloWorld版本](http://www.cnblogs.com/nbfujx/p/7865787.html)  </br>
