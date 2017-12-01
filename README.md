@@ -31,7 +31,10 @@
 
 [spring-boot-mybaits-xml：spring-boot整合Mybatis案例](http://www.cnblogs.com/nbfujx/p/7865968.html) </br>
 
+[spring-boot-mybaits-annotation：spring-boot整合Mybatis案例（注解方式）](http://www.cnblogs.com/nbfujx/p/7942055.html) </br>
+
 [spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
 
-[spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html)
+[spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html) 
+
 
