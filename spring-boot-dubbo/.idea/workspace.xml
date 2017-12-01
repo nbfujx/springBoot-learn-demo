@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="d914637b-55f4-4a93-9070-194c0602343f" name="Default" comment="" />
+=======
     <list default="true" id="d914637b-55f4-4a93-9070-194c0602343f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-dubbo-consumer/target/classes/com/goku/demo/controller/ExampleController.class" afterPath="$PROJECT_DIR$/spring-boot-dubbo-consumer/target/classes/com/goku/demo/controller/ExampleController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-dubbo-consumer/src/main/java/com/goku/demo/controller/ExampleController.java" afterPath="$PROJECT_DIR$/spring-boot-dubbo-consumer/src/main/java/com/goku/demo/controller/ExampleController.java" />
     </list>
+>>>>>>> 5c5f8566c63a95e1d45650e9544e8f4ab18c72bc
     <ignored path="spring-boot-dubbo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1131,15 +1135,23 @@
       <workItem from="1511418896546" duration="143000" />
       <workItem from="1511419867908" duration="1047000" />
       <workItem from="1511421587019" duration="33000" />
+<<<<<<< HEAD
+      <workItem from="1511762844089" duration="7042000" />
+=======
       <workItem from="1511762844089" duration="6965000" />
       <workItem from="1511778496833" duration="255000" />
       <workItem from="1511778862876" duration="2003000" />
       <workItem from="1511784457541" duration="19000" />
+>>>>>>> 5c5f8566c63a95e1d45650e9544e8f4ab18c72bc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="11149000" />
+=======
     <option name="totallyTimeSpent" value="13349000" />
+>>>>>>> 5c5f8566c63a95e1d45650e9544e8f4ab18c72bc
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />

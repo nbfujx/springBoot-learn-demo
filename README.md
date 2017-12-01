@@ -22,11 +22,16 @@
 #### spring-boot-springSecurity-springSession-redis：springboot 整合springSecurity和springSession和redis  rbac示例
 #### spring-boot-dubbo：springboot 整合dubbo 分布式架构示例
 #### spring-boot-ws：springboot 整合cxf webservice 示例
+#### spring-boot-elasticsearch： springboot整合Elasticsearch 示例
+
+
 
 ### 博客地址
 [spring-boot-helloWorld：spring-boot的helloWorld版本](http://www.cnblogs.com/nbfujx/p/7865787.html)  </br>
 
 [spring-boot-mybaits-xml：spring-boot整合Mybatis案例](http://www.cnblogs.com/nbfujx/p/7865968.html) </br>
 
-[spring-boot-dubbo：springboot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html)
+[spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
+
+[spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html)
 

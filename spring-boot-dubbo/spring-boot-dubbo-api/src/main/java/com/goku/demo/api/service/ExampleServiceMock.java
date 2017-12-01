@@ -9,6 +9,6 @@ import org.springframework.stereotype.Service;
 public class ExampleServiceMock  implements ExampleService {
     @Override
     public String echo(String str) {
-        return "hello"+ str+"this is error!";
+        return "hello"+ str+",this is error!";
     }
 }
