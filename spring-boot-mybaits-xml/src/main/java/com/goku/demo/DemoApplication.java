@@ -1,5 +1,6 @@
 package com.goku.demo;
 
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
@@ -11,6 +12,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 // Spring Boot 应用的标识
 @SpringBootApplication
 @ServletComponentScan
+@MapperScan(basePackages="com.goku.demo.mapper")
 public class DemoApplication {
 
     public static void main(String[] args) {
