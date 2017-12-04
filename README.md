@@ -9,6 +9,7 @@
 #### spring-boot-thymeleaf：simple spring boot thymeleaf demo
 #### spring-boot-swagger2：spring boot + swagger2 RESTful API文档
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
+#### spring-boot-websocket：SpringBoot整合WebSocket示例
 #### spring-boot-scheduler：spring boot和定时任务案例
 #### spring-boot-web：web开发综合使用案例
 #### spring-boot-mail：spring boot和邮件服务
@@ -23,6 +24,7 @@
 #### spring-boot-dubbo：springboot 整合dubbo 分布式架构示例
 #### spring-boot-ws：springboot 整合cxf webservice 示例
 #### spring-boot-elasticsearch： springboot整合Elasticsearch 示例
+
 
 
 
