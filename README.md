@@ -11,6 +11,7 @@
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
 #### spring-boot-websocket：SpringBoot整合WebSocket示例
 #### spring-boot-scheduler：spring boot和定时任务案例
+#### spring-boot-quartz：spring boot整合quartz定时任务案例
 #### spring-boot-web：web开发综合使用案例
 #### spring-boot-mail：spring boot和邮件服务
 #### spring-boot-redis：spring boot和redis的缓存使用
