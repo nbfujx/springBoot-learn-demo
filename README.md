@@ -36,6 +36,10 @@
 
 [spring-boot-mybaits-annotation：spring-boot整合Mybatis案例（注解方式）](http://www.cnblogs.com/nbfujx/p/7942055.html) </br>
 
+[spring-boot-mybaits-mulidatasource：springboot+mybaits多数据源最简解决方案](http://www.cnblogs.com/nbfujx/p/7999196.html) </br>
+
+[pring-boot-mybaits-annotation-mulidatasource：springboot+mybaits 动态数据源最简解决方案](http://www.cnblogs.com/nbfujx/p/7999669.html) </br>
+
 [spring-boot-scheduler：spring boot和定时任务案例](http://www.cnblogs.com/nbfujx/p/7994808.html) </br>
 
 [spring-boot-redis：spring boot和redis的缓存使用](http://www.cnblogs.com/nbfujx/p/7994988.html) </br>
