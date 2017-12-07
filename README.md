@@ -38,6 +38,8 @@
 
 [spring-boot-scheduler：spring boot和定时任务案例](http://www.cnblogs.com/nbfujx/p/7994808.html) </br>
 
+[spring-boot-redis：spring boot和redis的缓存使用](http://www.cnblogs.com/nbfujx/p/7994988.html) </br>
+
 [spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
 
 [spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html) 
