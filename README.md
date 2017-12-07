@@ -4,8 +4,8 @@
 #### spring-boot-helloWorld：spring-boot的helloWorld版本
 #### spring-boot-mybaits-annotation：注解版本
 #### spring-boot-mybaits-xml：xml配置版本
-#### spring-boot-druid-mulidatasource：springboot+druid多数据源最简解决方案
-#### spring-boot-druid-annotation-mulidatasource：springboot+druid（注解版）多数据源最简解决方案
+#### spring-boot-mybaits-mulidatasource：springboot+mybaits多数据源最简解决方案
+#### spring-boot-mybaits-annotation-mulidatasource：springboot+mybaits（注解版）多数据源最简解决方案
 #### spring-boot-thymeleaf：simple spring boot thymeleaf demo
 #### spring-boot-swagger2：spring boot + swagger2 RESTful API文档
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
