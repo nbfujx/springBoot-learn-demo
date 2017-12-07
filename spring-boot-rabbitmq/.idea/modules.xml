@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq_receiver/spring-boot-rabbitmq_receiver.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq_receiver/spring-boot-rabbitmq_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq_send/spring-boot-rabbitmq_send.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq_send/spring-boot-rabbitmq_send.iml" />
     </modules>
   </component>
 </project>

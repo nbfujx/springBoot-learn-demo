@@ -4,8 +4,8 @@
 #### spring-boot-helloWorld：spring-boot的helloWorld版本
 #### spring-boot-mybaits-annotation：注解版本
 #### spring-boot-mybaits-xml：xml配置版本
-#### spring-boot-mybatis-mulidatasource：springboot+mybatis多数据源最简解决方案
-#### spring-boot-mybatis-annotation-mulidatasource：springboot+mybatis（注解版）多数据源最简解决方案
+#### spring-boot-mybaits-mulidatasource：springboot+mybaits多数据源最简解决方案
+#### spring-boot-mybaits-annotation-mulidatasource：springboot+mybaits（注解版）多数据源最简解决方案
 #### spring-boot-thymeleaf：simple spring boot thymeleaf demo
 #### spring-boot-swagger2：spring boot + swagger2 RESTful API文档
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
@@ -37,6 +37,8 @@
 [spring-boot-mybaits-annotation：spring-boot整合Mybatis案例（注解方式）](http://www.cnblogs.com/nbfujx/p/7942055.html) </br>
 
 [spring-boot-scheduler：spring boot和定时任务案例](http://www.cnblogs.com/nbfujx/p/7994808.html) </br>
+
+[spring-boot-redis：spring boot和redis的缓存使用](http://www.cnblogs.com/nbfujx/p/7994988.html) </br>
 
 [spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
 

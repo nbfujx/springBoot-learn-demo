@@ -22,11 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="spring-boot-rabbitmq" />
+        <module name="spring-boot-rabbitmq_receiver" />
+        <module name="spring-boot-rabbitmq_send" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-rabbitmq" target="1.5" />
+      <module name="spring-boot-rabbitmq_receiver" target="1.5" />
+      <module name="spring-boot-rabbitmq_send" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
