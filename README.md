@@ -11,6 +11,7 @@
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
 #### spring-boot-websocket：SpringBoot整合WebSocket示例
 #### spring-boot-scheduler：spring boot和定时任务案例
+#### spring-boot-quartz：spring boot整合quartz定时任务案例
 #### spring-boot-web：web开发综合使用案例
 #### spring-boot-mail：spring boot和邮件服务
 #### spring-boot-redis：spring boot和redis的缓存使用
@@ -34,6 +35,8 @@
 [spring-boot-mybaits-xml：spring-boot整合Mybatis案例](http://www.cnblogs.com/nbfujx/p/7865968.html) </br>
 
 [spring-boot-mybaits-annotation：spring-boot整合Mybatis案例（注解方式）](http://www.cnblogs.com/nbfujx/p/7942055.html) </br>
+
+[spring-boot-scheduler：spring boot和定时任务案例](http://www.cnblogs.com/nbfujx/p/7994808.html) </br>
 
 [spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
 
