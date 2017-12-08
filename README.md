@@ -5,7 +5,7 @@
 #### spring-boot-mybaits-annotation：注解版本
 #### spring-boot-mybaits-xml：xml配置版本
 #### spring-boot-mybaits-mulidatasource：springboot+mybaits多数据源最简解决方案
-#### spring-boot-mybaits-annotation-mulidatasource：springboot+mybaits（注解版）多数据源最简解决方案
+#### spring-boot-mybaits-annotation-mulidatasource：springboot+mybaits 动态数据源最简解决方案
 #### spring-boot-thymeleaf：simple spring boot thymeleaf demo
 #### spring-boot-swagger2：spring boot + swagger2 RESTful API文档
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
@@ -35,6 +35,10 @@
 [spring-boot-mybaits-xml：spring-boot整合Mybatis案例](http://www.cnblogs.com/nbfujx/p/7865968.html) </br>
 
 [spring-boot-mybaits-annotation：spring-boot整合Mybatis案例（注解方式）](http://www.cnblogs.com/nbfujx/p/7942055.html) </br>
+
+[spring-boot-mybaits-mulidatasource：springboot+mybaits多数据源最简解决方案](http://www.cnblogs.com/nbfujx/p/7999196.html) </br>
+
+[pring-boot-mybaits-annotation-mulidatasource：springboot+mybaits 动态数据源最简解决方案](http://www.cnblogs.com/nbfujx/p/7999669.html) </br>
 
 [spring-boot-scheduler：spring boot和定时任务案例](http://www.cnblogs.com/nbfujx/p/7994808.html) </br>
 

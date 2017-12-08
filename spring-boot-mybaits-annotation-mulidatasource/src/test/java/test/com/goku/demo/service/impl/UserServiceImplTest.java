@@ -35,7 +35,7 @@ public class UserServiceImplTest  {
 
     @Test
     public  void testSelectByPrimaryKey2() {
-        UserWithBLOBs user=userservice.selectByPrimaryKey1("test");
-        this.logger.info(userservice.selectByPrimaryKey2("test").toString());
+        UserWithBLOBs user=userservice.selectByPrimaryKey2("1");
+        this.logger.info(userservice.selectByPrimaryKey2("1").toString());
     }
 }
