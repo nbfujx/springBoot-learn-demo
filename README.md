@@ -44,6 +44,10 @@
 
 [spring-boot-redis：spring boot和redis的缓存使用](http://www.cnblogs.com/nbfujx/p/7994988.html) </br>
 
+[spring-boot-mongodb：spring boot和mongodb的使用](http://www.cnblogs.com/nbfujx/p/7999171.html) </br>
+
+[spring-boot-multi-mongodb：spring boot和mongodb多数据源的使用](http://www.cnblogs.com/nbfujx/p/8017806.html) </br>
+
 [spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
 
 [spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html) 
