@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+
+    <session-factory>
+        <property name="connection.url">jdbc:mysql://10.1.51.234:3306/springbootdb</property>
+        <!-- 数据库JDBC驱动类名 -->
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <!-- 数据库方言 -->
+        <property name="dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+        <!-- ddl语句自动建表 -->
+        <property name="hbm2ddl.auto">update</property>
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        <mapping class="com.goku.demo.entity.User"/>
+
+    </session-factory>
+</hibernate-configuration>
