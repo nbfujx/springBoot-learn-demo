@@ -51,6 +51,8 @@
 
 [spring-boot-dubbo：spring-boot 整合dubbo 分布式架构示例](http://www.cnblogs.com/nbfujx/p/7884434.html) </br>
 
-[spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html) 
+[spring-boot-ws：spring-boot整合Cxf的webservice案例](http://www.cnblogs.com/nbfujx/p/7905889.html) </br>
+
+[spring-boot-hibernate：springboot+hibernate 解决方案](http://www.cnblogs.com/nbfujx/p/8183491.html)
 
 
