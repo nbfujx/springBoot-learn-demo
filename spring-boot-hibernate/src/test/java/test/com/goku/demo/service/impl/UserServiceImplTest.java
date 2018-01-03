@@ -3,6 +3,7 @@ package test.com.goku.demo.service.impl;
 import com.alibaba.fastjson.JSON;
 import com.goku.demo.DemoApplication;
 import com.goku.demo.entity.User;
+import com.goku.demo.repository.UserExtRepository;
 import com.goku.demo.service.UserService;
 import com.goku.demo.service.impl.UserServiceImpl;
 import org.junit.Test;
@@ -28,9 +29,17 @@ public class UserServiceImplTest {
     @Autowired
     UserService userService;
 
+    @Autowired
+    UserExtRepository userExtRepository;
+
     @Test
     public void getUserList() throws Exception {
       this.logger.info(JSON.toJSONString(userService.getUserList()));
+    }
+
+    @Test
+    public void getUserInfo() throws Exception {
+        this.logger.info(JSON.toJSONString(userExtRepository.getUserInfo("1")));
     }
 
     @Test
