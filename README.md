@@ -55,4 +55,6 @@
 
 [spring-boot-hibernate：springboot+hibernate 解决方案](http://www.cnblogs.com/nbfujx/p/8183491.html)
 
+[spring-boot-mail：spring boot和邮件服务](http://www.cnblogs.com/nbfujx/p/8269401.html)
+
 
