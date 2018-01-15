@@ -50,6 +50,8 @@
 
 [spring-boot-scheduler：spring boot和定时任务案例](http://www.cnblogs.com/nbfujx/p/7994808.html) </br>
 
+[spring-boot-quartz：spring boot整合quartz定时任务案例](http://www.cnblogs.com/nbfujx/p/8287647.html) </br>
+
 [spring-boot-mail：spring boot和邮件服务](http://www.cnblogs.com/nbfujx/p/8269401.html)
 
 [spring-boot-websocket：SpringBoot整合WebSocket示例](http://www.cnblogs.com/nbfujx/p/8269457.html)
