@@ -42,6 +42,17 @@
             <groupId>io.dubbo.springboot</groupId>
             <artifactId>spring-boot-starter-dubbo</artifactId>
             <version>1.0.0</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>spring</artifactId>
+                    <groupId>org.springframework</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>dubbo</artifactId>
+            <version>2.5.9</version>
         </dependency>
     </dependencies>
 
