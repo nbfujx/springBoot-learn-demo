@@ -16,6 +16,7 @@
 #### spring-boot-mail：spring boot和邮件服务
 #### spring-boot-websocket：SpringBoot整合WebSocket示例
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
+#### spring-boot-activemq：spring boot和activemq各种消息应用案例
 #### spring-boot-shiro：springboot 整合shiro rbac示例
 #### spring-boot-shiro-redis：springboot 整合shiro和redis rbac示例
 #### spring-boot-springSecurity：springboot 整合springSecurity rbac示例
