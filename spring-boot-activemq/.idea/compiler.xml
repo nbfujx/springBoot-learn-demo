@@ -22,11 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="spring-boot-activemq" />
+        <module name="spring-boot-activemq-receiver" />
+        <module name="spring-boot-activemq-sender" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-boot-activemq" target="1.5" />
+      <module name="spring-boot-activemq" target="1.7" />
+      <module name="spring-boot-activemq-receiver" target="1.7" />
+      <module name="spring-boot-activemq-sender" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

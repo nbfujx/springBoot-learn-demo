@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq.iml" filepath="$PROJECT_DIR$/spring-boot-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq-receiver/spring-boot-activemq-receiver.iml" filepath="$PROJECT_DIR$/spring-boot-activemq-receiver/spring-boot-activemq-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq-sender/spring-boot-activemq-sender.iml" filepath="$PROJECT_DIR$/spring-boot-activemq-sender/spring-boot-activemq-sender.iml" />
     </modules>
   </component>
 </project>
