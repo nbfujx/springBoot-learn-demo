@@ -18,6 +18,7 @@
 #### spring-boot-rabbitmq：spring boot和rabbitmq各种消息应用案例
 #### spring-boot-activemq：spring boot和activemq各种消息应用案例
 #### spring-boot-shiro：springboot 整合shiro rbac示例
+#### spring-boot-jwt：springboot 整合jwt 前后端分离 rbac示例
 #### spring-boot-shiro-redis：springboot 整合shiro和redis rbac示例
 #### spring-boot-springSecurity：springboot 整合springSecurity rbac示例
 #### spring-boot-springSecurity-springSession-redis：springboot 整合springSecurity和springSession和redis  rbac示例

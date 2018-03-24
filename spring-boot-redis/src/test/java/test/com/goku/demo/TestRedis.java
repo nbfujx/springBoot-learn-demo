@@ -28,8 +28,8 @@ public class TestRedis implements Serializable{
     @Test
     public void test() throws Exception {
         // 保存字符串
-        redisTemplate.opsForValue().set("数字", "111");
-        this.logger.info((String) redisTemplate.opsForValue().get("数字"));
+        //redisTemplate.opsForValue().set("DA22222", "111");
+        this.logger.info((String) redisTemplate.opsForValue().get("2222222222222"));
     }
 
     @Test
