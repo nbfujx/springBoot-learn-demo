@@ -16,10 +16,9 @@ public class AsyncService {
     private RestTemplate restTemplate;
 
     @Async
-    public void update(int str,int da) {
+    public void update(int str) {
         try {
             Thread.sleep(10);
-            restTemplate.getForEntity("http://localhost:8091/call/"+str+"/"+da,  String.class);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

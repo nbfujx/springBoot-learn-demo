@@ -29,13 +29,13 @@ public class ExampleController {
         return "helloWorld";
     }
 
-    @RequestMapping("/{str}/{da}")
-    public String call(@PathVariable int str,@PathVariable int da)
+    @RequestMapping("/{str}")
+    public String call(@PathVariable int str)
     {
         System.out.println("start" );
-        asyncService.update(str,da); // ★ 假设这个方法会比较耗时，需要异步执行
+        asyncService.update(str); // ★ 假设这个方法会比较耗时，需要异步执行
         System.out.println("end");
-        return "je "+ str+";da"+ da;
+        return "str is "+ str;
     }
 
 
