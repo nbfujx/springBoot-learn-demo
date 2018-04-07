@@ -6,7 +6,7 @@
   <script th:src="@{js/stomp.js}"></script>
   <script th:src="@{js/jquery-3.1.1.js}"></script>
 </head>
-<body onload="disconnect()">
+<body onload="connect2()">
 <noscript><h2 style="color: #e80b0a;">Sorry，浏览器不支持WebSocket</h2></noscript>
 <div>
   <div>
@@ -26,8 +26,6 @@
     document.getElementById("connect").disabled = connected;
     document.getElementById("disconnect").disabled = !connected;
     document.getElementById("conversationDiv").style.visibility = connected ? 'visible' : 'hidden';
-//        $("#connect").disabled = connected;
-//        $("#disconnect").disabled = !connected;
     $("#response").html();
   }
   function connect() {
@@ -41,6 +39,17 @@
       })
     });
   }
+  function connect2() {
+      var socket = new SockJS('/endpointGoku');
+      stompClient = Stomp.over(socket);
+      stompClient.connect({}, function (frame) {
+          setConnected(true);
+          console.log('Connected:' + frame);
+          stompClient.subscribe('/topic/getResponse2', function (response) {
+              showResponse(JSON.parse(response.body).responseMessage);
+          })
+      });
+  }
   function disconnect() {
     if (stompClient != null) {
       stompClient.disconnect();
@@ -53,9 +62,15 @@
     console.log('name:' + name);
     stompClient.send("/welcome", {}, JSON.stringify({'name': name}));
   }
-  function showResponse(message) {
-    $("#response").html(message);
+  function sendName2() {
+      var name = $('#name').val();
+      console.log('name:' + name);
+      stompClient.send("/welcome2");
   }
+  function showResponse(message) {
+      $("#response").html(message);
+  }
+  setInterval(sendName2,1000);
 </script>
 </body>
 </html>
